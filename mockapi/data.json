@@ -1,0 +1,570 @@
+{
+    "Chennai": {
+        "city": "Chennai",
+        "climate": "Rainy",
+        "temp": {
+            "c": "29",
+            "f": "84"
+        },
+        "lowTemp": {
+            "c": "27",
+            "f": "82"
+        },
+        "highTemp": {
+            "c": "32",
+            "f": "88"
+        },
+        "chanceOfRain": "60",
+        "wind": {
+            "speed": {
+                "kmph": "0.3",
+                "mph": "12"
+            },
+            "direction": "NE"
+        },
+        "todayForecast": [
+            {
+                "time": "6:00 AM",
+                "temp": {
+                    "c": "32",
+                    "f": "88"
+                },
+                "climate": "Sunny"
+            },
+            {
+                "time": "9:00 AM",
+                "temp": {
+                    "c": "34",
+                    "f": "92"
+                },
+                "climate": "Thunder"
+            },
+            {
+                "time": "6:00 AM",
+                "temp": {
+                    "c": "32",
+                    "f": "88"
+                },
+                "climate": "Cloudy"
+            },
+            {
+                "time": "6:00 AM",
+                "temp": {
+                    "c": "32",
+                    "f": "88"
+                },
+                "climate": "Sunny"
+            },
+            {
+                "time": "6:00 AM",
+                "temp": {
+                    "c": "32",
+                    "f": "88"
+                },
+                "climate": "Sunny"
+            },
+            {
+                "time": "6:00 AM",
+                "temp": {
+                    "c": "32",
+                    "f": "88"
+                },
+                "climate": "Sunny"
+            }
+        ],
+        "weekForecast": [
+            {
+                "day": "Today",
+                "climate": "Cloudy",
+                "lowTemp": {
+                    "c": "19",
+                    "f": "66.2"
+                },
+                "highTemp": {
+                    "c": "24",
+                    "f": "75.2"
+                }
+            },
+            {
+                "day": "Wednesday",
+                "climate": "Thunder",
+                "lowTemp": {
+                    "c": "20",
+                    "f": "68"
+                },
+                "highTemp": {
+                    "c": "25",
+                    "f": "77"
+                }
+            },
+            {
+                "day": "Thursday",
+                "climate": "Rainy",
+                "lowTemp": {
+                    "c": "21",
+                    "f": "69.8"
+                },
+                "highTemp": {
+                    "c": "23",
+                    "f": "73.4"
+                }
+            },
+            {
+                "day": "Friday",
+                "climate": "Cloudy",
+                "lowTemp": {
+                    "c": "18",
+                    "f": "64.4"
+                },
+                "highTemp": {
+                    "c": "24",
+                    "f": "75.2"
+                }
+            },
+            {
+                "day": "Saturday",
+                "climate": "Sunny",
+                "lowTemp": {
+                    "c": "19",
+                    "f": "66.2"
+                },
+                "highTemp": {
+                    "c": "26",
+                    "f": "78.8"
+                }
+            },
+            {
+                "day": "Sunday",
+                "climate": "Rainy",
+                "lowTemp": {
+                    "c": "20",
+                    "f": "68"
+                },
+                "highTemp": {
+                    "c": "25",
+                    "f": "77"
+                }
+            },
+            {
+                "day": "Monday",
+                "climate": "Clear",
+                "lowTemp": {
+                    "c": "18",
+                    "f": "64.4"
+                },
+                "highTemp": {
+                    "c": "23",
+                    "f": "73.4"
+                }
+            }
+        ]
+    },
+    "Madurai": {
+        "city": "Madurai",
+        "climate": "Sunny",
+        "temp": {
+            "c": "35",
+            "f": "95"
+        },
+        "lowTemp": {
+            "c": "27",
+            "f": "80.6"
+        },
+        "highTemp": {
+            "c": "37",
+            "f": "98.6"
+        },
+        "chanceOfRain": "10",
+        "wind": {
+            "speed": {
+                "kmph": "5",
+                "mph": "3.1"
+            },
+            "direction": "SE"
+        },
+        "todayForecast": [
+            {
+                "time": "6:00 AM",
+                "temp": {
+                    "c": "27",
+                    "f": "80.6"
+                },
+                "climate": "Clear"
+            },
+            {
+                "time": "9:00 AM",
+                "temp": {
+                    "c": "30",
+                    "f": "86"
+                },
+                "climate": "Sunny"
+            },
+            {
+                "time": "12:00 PM",
+                "temp": {
+                    "c": "35",
+                    "f": "95"
+                },
+                "climate": "Sunny"
+            },
+            {
+                "time": "3:00 PM",
+                "temp": {
+                    "c": "37",
+                    "f": "98.6"
+                },
+                "climate": "Thunder"
+            },
+            {
+                "time": "6:00 PM",
+                "temp": {
+                    "c": "33",
+                    "f": "91.4"
+                },
+                "climate": "Clear"
+            },
+            {
+                "time": "9:00 PM",
+                "temp": {
+                    "c": "29",
+                    "f": "84.2"
+                },
+                "climate": "Clear"
+            }
+        ],
+        "weekForecast": [
+            {
+                "day": "Today",
+                "climate": "Sunny",
+                "lowTemp": {
+                    "c": "27",
+                    "f": "80.6"
+                },
+                "highTemp": {
+                    "c": "35",
+                    "f": "95"
+                }
+            },
+            {
+                "day": "Wednesday",
+                "climate": "Thunder",
+                "lowTemp": {
+                    "c": "28",
+                    "f": "82.4"
+                },
+                "highTemp": {
+                    "c": "36",
+                    "f": "96.8"
+                }
+            },
+            {
+                "day": "Thursday",
+                "climate": "Sunny",
+                "lowTemp": {
+                    "c": "27",
+                    "f": "80.6"
+                },
+                "highTemp": {
+                    "c": "37",
+                    "f": "98.6"
+                }
+            },
+            {
+                "day": "Friday",
+                "climate": "Rainy",
+                "lowTemp": {
+                    "c": "26",
+                    "f": "78.8"
+                },
+                "highTemp": {
+                    "c": "34",
+                    "f": "93.2"
+                }
+            }
+        ]
+    },
+    "Coimbatore": {
+        "city": "Coimbatore",
+        "climate": "Thunder",
+        "temp": {
+            "c": "29",
+            "f": "84.2"
+        },
+        "lowTemp": {
+            "c": "23",
+            "f": "73.4"
+        },
+        "highTemp": {
+            "c": "31",
+            "f": "87.8"
+        },
+        "chanceOfRain": "30",
+        "wind": {
+            "speed": {
+                "kmph": "10",
+                "mph": "6.2"
+            },
+            "direction": "W"
+        },
+        "todayForecast": [
+            {
+                "time": "6:00 AM",
+                "temp": {
+                    "c": "23",
+                    "f": "73.4"
+                },
+                "climate": "Clear"
+            },
+            {
+                "time": "9:00 AM",
+                "temp": {
+                    "c": "26",
+                    "f": "78.8"
+                },
+                "climate": "Cloudy"
+            },
+            {
+                "time": "12:00 PM",
+                "temp": {
+                    "c": "29",
+                    "f": "84.2"
+                },
+                "climate": "Thunder"
+            },
+            {
+                "time": "3:00 PM",
+                "temp": {
+                    "c": "31",
+                    "f": "87.8"
+                },
+                "climate": "Thunder"
+            },
+            {
+                "time": "6:00 PM",
+                "temp": {
+                    "c": "28",
+                    "f": "82.4"
+                },
+                "climate": "Clear"
+            },
+            {
+                "time": "9:00 PM",
+                "temp": {
+                    "c": "24",
+                    "f": "75.2"
+                },
+                "climate": "Clear"
+            }
+        ],
+        "weekForecast": [
+            {
+                "day": "Today",
+                "climate": "Thunder",
+                "lowTemp": {
+                    "c": "23",
+                    "f": "73.4"
+                },
+                "highTemp": {
+                    "c": "29",
+                    "f": "84.2"
+                }
+            },
+            {
+                "day": "Wednesday",
+                "climate": "Rainy",
+                "lowTemp": {
+                    "c": "22",
+                    "f": "71.6"
+                },
+                "highTemp": {
+                    "c": "30",
+                    "f": "86"
+                }
+            },
+            {
+                "day": "Thursday",
+                "climate": "Cloudy",
+                "lowTemp": {
+                    "c": "24",
+                    "f": "75.2"
+                },
+                "highTemp": {
+                    "c": "31",
+                    "f": "87.8"
+                }
+            },
+            {
+                "day": "Friday",
+                "climate": "Sunny",
+                "lowTemp": {
+                    "c": "25",
+                    "f": "77"
+                },
+                "highTemp": {
+                    "c": "32",
+                    "f": "89.6"
+                }
+            }
+        ]
+    },
+    "Bangalore": {
+        "city": "Bangalore",
+        "climate": "Cloudy",
+        "temp": {
+            "c": "24",
+            "f": "75.2"
+        },
+        "lowTemp": {
+            "c": "19",
+            "f": "66.2"
+        },
+        "highTemp": {
+            "c": "26",
+            "f": "78.8"
+        },
+        "chanceOfRain": "40",
+        "wind": {
+            "speed": {
+                "kmph": "15",
+                "mph": "9.3"
+            },
+            "direction": "NW"
+        },
+        "todayForecast": [
+            {
+                "time": "6:00 AM",
+                "temp": {
+                    "c": "19",
+                    "f": "66.2"
+                },
+                "climate": "Cloudy"
+            },
+            {
+                "time": "9:00 AM",
+                "temp": {
+                    "c": "22",
+                    "f": "71.6"
+                },
+                "climate": "Thunder"
+            },
+            {
+                "time": "12:00 PM",
+                "temp": {
+                    "c": "24",
+                    "f": "75.2"
+                },
+                "climate": "Cloudy"
+            },
+            {
+                "time": "3:00 PM",
+                "temp": {
+                    "c": "26",
+                    "f": "78.8"
+                },
+                "climate": "Cloudy"
+            },
+            {
+                "time": "6:00 PM",
+                "temp": {
+                    "c": "24",
+                    "f": "75.2"
+                },
+                "climate": "Clear"
+            },
+            {
+                "time": "9:00 PM",
+                "temp": {
+                    "c": "21",
+                    "f": "69.8"
+                },
+                "climate": "Cloudy"
+            }
+        ],
+        "weekForecast": [
+            {
+                "day": "Today",
+                "climate": "Cloudy",
+                "lowTemp": {
+                    "c": "19",
+                    "f": "66.2"
+                },
+                "highTemp": {
+                    "c": "24",
+                    "f": "75.2"
+                }
+            },
+            {
+                "day": "Wednesday",
+                "climate": "Thunder",
+                "lowTemp": {
+                    "c": "20",
+                    "f": "68"
+                },
+                "highTemp": {
+                    "c": "25",
+                    "f": "77"
+                }
+            },
+            {
+                "day": "Thursday",
+                "climate": "Rainy",
+                "lowTemp": {
+                    "c": "21",
+                    "f": "69.8"
+                },
+                "highTemp": {
+                    "c": "23",
+                    "f": "73.4"
+                }
+            },
+            {
+                "day": "Friday",
+                "climate": "Cloudy",
+                "lowTemp": {
+                    "c": "18",
+                    "f": "64.4"
+                },
+                "highTemp": {
+                    "c": "24",
+                    "f": "75.2"
+                }
+            },
+            {
+                "day": "Saturday",
+                "climate": "Sunny",
+                "lowTemp": {
+                    "c": "19",
+                    "f": "66.2"
+                },
+                "highTemp": {
+                    "c": "26",
+                    "f": "78.8"
+                }
+            },
+            {
+                "day": "Sunday",
+                "climate": "Rainy",
+                "lowTemp": {
+                    "c": "20",
+                    "f": "68"
+                },
+                "highTemp": {
+                    "c": "25",
+                    "f": "77"
+                }
+            },
+            {
+                "day": "Monday",
+                "climate": "Clear",
+                "lowTemp": {
+                    "c": "18",
+                    "f": "64.4"
+                },
+                "highTemp": {
+                    "c": "23",
+                    "f": "73.4"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+.week-forecast-wrapper {
+    flex: 0 1 25em;
+    overflow: auto;
+    background: #222B3A;
+    border-radius: .4em;
+    height: fit-content;
+    max-height: 100%;
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+
+    @media screen and (max-width:768px) {
+        overflow: visible;
+        max-height: fit-content;
+    }
+    
+    .title {
+        font-weight: 600;
+        color: rgba(255, 255, 255, 0.816);
+    }
+    
+    .week-forecast-container {
+        flex: 1;
+        overflow: auto;
+        display: flex;
+        flex-direction: column;
+        scrollbar-width: none;
+
+        @media screen and (max-width:768px) {
+            overflow: visible;
+        }
+
+        .row {
+            display: flex;
+            justify-content: space-between;
+            gap: 1em;
+            align-items: center;
+            padding: 1.3em 1em;
+
+            .column {
+                display: flex;
+                flex: 1;
+                color: rgba(255, 255, 255, 0.677);
+                white-space: nowrap;
+                font-size: .9em;
+
+
+                img {
+                    width: 3em;
+                }
+            }
+
+            .column.center {
+                flex-direction: column;
+                align-items: center;
+                color: white;
+                gap: .5em;
+                font-weight: 500;
+                
+            }
+        }
+
+        .row:not(:last-child) {
+            border-bottom: 1px solid rgba(255, 255, 255, 0.196);
+        }
+
+    }
+}

@@ -1,0 +1,83 @@
+.top-bar-wrapper {
+    display: flex;
+
+    .top-bar-content {
+        flex: 1;
+        background: #222B3A;
+        position: relative;
+        border-radius: .4em;
+        display: flex;
+
+        .search-btn {
+            color: rgb(198, 198, 198);
+            width: 100%;
+            font-size: .95em;
+            cursor: pointer;
+            padding: .8em 2em;
+        }
+
+        button {
+            background: none;
+            border: none;
+            outline: none;
+            color: white;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            padding: .5em 1em;
+        }
+
+        .cities-options-container {
+            position: absolute;
+            width: 100%;
+            top: calc(100% + 1em);
+            background: #222b3ac7;
+            backdrop-filter: blur(8px);
+            left: 0;
+            right: 0;
+            border-radius: .4em;
+            font-size: .9em;
+            color: rgb(208, 208, 208);
+            overflow: hidden;
+
+            .no-city {
+                padding: .5em 2em;
+            }
+
+            .city {
+                padding: .7em 2em;
+                border-bottom: 1px solid #323946;
+                cursor: pointer;
+            }
+
+            .city:hover {
+                background: #2c384b;
+
+            }
+
+        }
+    }
+
+    .options {
+        display: flex;
+        align-items: center;
+        padding: 0 1em;
+        gap: .5em;
+
+        button {
+            background: none;
+            outline: none;
+            border: none;
+            color: rgba(255, 255, 255, 0.641);
+            font-size: .9em;
+            cursor: pointer;
+        }
+
+        button.active {
+            font-size: 1.1em;
+            color: white;
+        }
+
+    }
+
+}
